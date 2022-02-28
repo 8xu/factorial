@@ -1,0 +1,6 @@
+{
+    "name": "@sheitann/factorial",
+    "version": "1.0.0",
+    "description": "Easy function that calculates factorial of a number.",
+    "repository": "8xu/factorial"
+}
